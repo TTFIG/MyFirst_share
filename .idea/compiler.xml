@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="anmybatis" />
+        <module name="mybatis" />
+        <module name="annmybatis" />
+        <module name="remybatis" />
+        <module name="tkmybatis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="anmybatis" target="11" />
+      <module name="annmybatis" target="11" />
+      <module name="maven_web" target="11" />
+      <module name="mybatis" target="11" />
+      <module name="remybatis" target="11" />
+      <module name="tkmybatis" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

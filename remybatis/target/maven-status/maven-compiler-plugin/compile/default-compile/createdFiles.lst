@@ -1,0 +1,4 @@
+cn\itcyt\test\TestMybatis.class
+cn\itcyt\dao\UserDao.class
+cn\itcyt\domain\User.class
+cn\itcyt\domain\QueryVo.class

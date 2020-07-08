@@ -1,0 +1,6 @@
+it\cyt\dao\IUserDao.class
+it\cyt\dao\IRoleDao.class
+it\cyt\test\UserTest.class
+it\cyt\domain\Role.class
+it\cyt\domain\User.class
+it\cyt\test\RoleTest.class
