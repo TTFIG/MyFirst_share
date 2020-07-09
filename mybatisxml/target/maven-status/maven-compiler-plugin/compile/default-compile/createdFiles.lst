@@ -1,0 +1,4 @@
+com\itcyt\dao\IUserDao.class
+com\itcyt\test\UserTest.class
+com\itcyt\test\SecondLevelCacheTest.class
+com\itcyt\domain\User.class
